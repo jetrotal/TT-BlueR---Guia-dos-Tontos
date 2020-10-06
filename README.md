@@ -17,3 +17,7 @@ Caso sua fonte seja a "A", você precisa arrancar o adesivo indicado para ter ac
 
 Caso sua fonte seja a "B", você encontrará a chave na lateral da fonte, ao lado da placa mãe:
 ![Local da chave na fonte B](https://github.com/jetrotal/TT-BlueR-Guia-Iniciantes/blob/main/img/C.jpg?raw=true)
+
+Aproveite para checar se todas as conexões da placa mãe estão bem fixas e no lugar certo,
+conforme orientado nesse guia:
+https://acelera3d.com/guia-iniciante-bluer/
